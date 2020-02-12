@@ -40,7 +40,7 @@ def blend_images_in_grid(cell_size=128):
     person.close()
 
 
-def merge_faces(start, end, output):
+def merge_faces(start, end, output='out.png'):
     print(f"Merging {end - start} faces...")
     people_set = PEOPLE[start:end]
     total = len(people_set)
