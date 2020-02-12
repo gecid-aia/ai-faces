@@ -10,3 +10,6 @@
 *.map
 .sass-cache/
 .pytest_cache/
+out*
+people/
+results/
