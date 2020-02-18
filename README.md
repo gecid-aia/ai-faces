@@ -9,3 +9,5 @@ Sample of `blend_images_in_grid(cell_size=128)`:
 Sample of `merge_faces(start=0, end=25)`:
 
 ![Result](https://raw.githubusercontent.com/gecid-aia/ai-faces/master/results/blend_02.png)
+
+All images are under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) license.
